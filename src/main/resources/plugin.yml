@@ -1,0 +1,7 @@
+name: ChadBorder
+main: au.id.dbrown.chadborder.ChadBorder
+version: 1.0.0
+website: https://github.com/dbrownidau/ChadBorder
+author: dbrownidau
+description: >
+    A cool worldborder plugin
